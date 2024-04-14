@@ -10,5 +10,6 @@ Config.SkipSelection = false -- Skip the spawn selection and spawns the player a
 
 Config.DefaultNumberOfCharacters = 1 -- Define maximum amount of default characters (maximum 5 characters defined by default)
 Config.PlayersNumberOfCharacters = { -- Define maximum amount of player characters by rockstar license (you can find this license in your server's database in the player table)
-    { license = "license:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", numberOfChars = 2 },
+    { license = "license:f687bf4057a830267b8cc240cc238fb57cff359a", numberOfChars = 2 }, -- sen_iti
+    { license = "license:ab325d89107d16388349c07241f7cf3714269bbe", numberOfChars = 5 },  --yukad2
 }
